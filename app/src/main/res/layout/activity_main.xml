@@ -38,6 +38,7 @@
         app:layout_constraintVertical_bias="0.015" />
 
 
+    
     <Button
         android:id="@+id/Cut3"
         android:layout_width="wrap_content"
